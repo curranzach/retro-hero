@@ -18,9 +18,9 @@ function App() {
       </header>
 
       <main>
-        <p>Preserving retro games through music! Use your keyboard to play the 8-bit piano, middle C starts on 'g'</p>
+        <p><br></br>Preserving retro games through music! Use your keyboard to play the 8-bit piano, middle C starts on 'g'</p>
         <div>
-          <div style={{ display: 'flex', height: 200}}>
+          <div style={{ display: 'flex', height: 400}}>
             <BeatBox>
               <BeatBoxKey></BeatBoxKey>
               <BeatBoxKey></BeatBoxKey>
@@ -63,7 +63,7 @@ function App() {
             </Options>
           </div>
           <br></br>
-          <div style={{display: 'flex', height: 700}}>
+          <div style={{display: 'flex', height: 415}}>
             <Keyboard/>
 
           </div>          
