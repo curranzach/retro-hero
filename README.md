@@ -1,5 +1,6 @@
 # retro-hero
-Continuation of the unfinished Swamphacks 2021 project (https://github.com/aweizman/retro-hero)
+Continuation of the unfinished Swamphacks 2021 project (https://github.com/aweizman/retro-hero).
+All changes from the final version of that project were made by me.
 
 # Retro Hero
 
