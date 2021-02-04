@@ -9,6 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Currently hosted as a static website via GCP here: https://retro-hero-swamphacks.ue.r.appspot.com/
 
+### NOTE: Only the final, unfinished Swamphacks version of the project is currently hosted statically through the cloud. To see any updates, the application must be installed and started locally.
+
 ## Available Scripts
 
 In the project directory, you can run:
